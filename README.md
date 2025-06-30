@@ -50,13 +50,13 @@ This comprehensive analytics project demonstrates **end-to-end business intellig
 
 **Strategic Analytics Framework:** Designed comprehensive KPI tracking system identifying revenue optimization opportunities worth **$2.3M annually** through:
 
-✅ **Portfolio Optimization**: Discovered that top 10 artists represent 35% of revenue, enabling focused relationship management and contract renegotiation strategies
+**Portfolio Optimization**: Discovered that top 10 artists represent 35% of revenue, enabling focused relationship management and contract renegotiation strategies
 
-✅ **Market Expansion Strategy**: Identified 23% revenue upside in Asia-Pacific and Latin American markets through channel-specific performance analysis  
+**Market Expansion Strategy**: Identified 23% revenue upside in Asia-Pacific and Latin American markets through channel-specific performance analysis
 
-✅ **Risk Mitigation**: Flagged $12M+ in revenue at compliance risk, enabling proactive renewal and legal strategy development
+**Risk Mitigation**: Flagged $12M+ in revenue at compliance risk, enabling proactive renewal and legal strategy development
 
-✅ **Operational Excellence**: Automated reporting processes reducing manual analytics workload by 60% and enabling real-time performance monitoring
+**Operational Excellence**: Automated reporting processes reducing manual analytics workload by 60% and enabling real-time performance monitoring
 
 ---
 
@@ -431,9 +431,9 @@ jupyter notebook music-licensing-performance.ipynb
 ## Connect With Me
 
 **Asad Adnan** - Business Analytics Professional  
-📧 Available for **Business Analyst**, **Data Analyst**, and **Business Intelligence** opportunities  
-💼 [LinkedIn Profile](https://linkedin.com/in/asadadnan11) - Let's connect to discuss analytics opportunities  
-🔗 [GitHub Portfolio](https://github.com/asadadnan11) - View additional analytics projects
+Available for **Business Analyst**, **Data Analyst**, and **Business Intelligence** opportunities  
+[LinkedIn Profile](https://linkedin.com/in/asadadnan11) - Let's connect to discuss analytics opportunities  
+[GitHub Portfolio](https://github.com/asadadnan11) - View additional analytics projects
 
 **Core Competencies**: Business Intelligence • Data Analytics • Strategic Planning • Dashboard Development • Python • SQL • Statistical Analysis • KPI Development
 
